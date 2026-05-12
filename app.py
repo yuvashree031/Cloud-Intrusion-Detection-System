@@ -131,7 +131,8 @@ class ThreatDetectionEngine:
         
         threats.extend(self._detect_brute_force(events))
         return threats
-    
+
+    #detect brute force
     def _detect_brute_force(self, events):
         threats = []
         failed_logins = {}
