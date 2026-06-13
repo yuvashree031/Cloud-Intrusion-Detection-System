@@ -12,7 +12,7 @@ import logging
 from check_cloudtrail import CloudTrailMonitor
 from check_permissions import PermissionAnalyzer
 
-#2
+
 load_dotenv()
 
 logging.basicConfig(
