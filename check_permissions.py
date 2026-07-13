@@ -3,7 +3,7 @@ import boto3
 from dotenv import load_dotenv
 import logging
 from datetime import datetime
-#we
+
 logger = logging.getLogger(__name__)
 
 class PermissionAnalyzer:
