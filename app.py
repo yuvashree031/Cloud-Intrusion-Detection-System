@@ -4,7 +4,7 @@ import uuid
 from datetime import datetime
 from threading import Thread
 import time
-//ksgkdjgkjdgkdjfgkj
+//ksgkdjgkjdgkdj
 
 from flask import Flask, render_template, jsonify, request
 from flask_socketio import SocketIO, emit
